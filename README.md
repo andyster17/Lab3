@@ -4,6 +4,7 @@
 ![Latex](lab3Latex.JPG)
 
 ## Part 2 
+<pre>
 TutorBase stats
 12 contributors 
 31562 lines of code 
@@ -35,7 +36,7 @@ Total Commits
 	183 (average 2.5 commits per active day, 1.0 per all days)
 Authors
 	13 (average 14.1 commits per author)
-
+</pre>
 Gitstats seems to be much more thorough and I was definitely a little off in my analysis.
 I'm honestly suprised by how off my code count was, I used the command "git ls-files -z | xargs -0 wc -l"
 for my code and its suprising to see how far off it is.   
