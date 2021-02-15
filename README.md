@@ -1,5 +1,7 @@
 # Lab3
+## Part 1 
 
+![Latex](lab3Latex.JPG)
 
 ## Part 2 
 TutorBase stats
