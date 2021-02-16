@@ -1,6 +1,22 @@
 # Lab3
 ## Part 1 
+# Wiki entry
+Welcome to the Lab3 wiki! The problem area that your software is researching or a technology or technologies that you might want to explore.
 
+I want to make a piece of software that assists people with ADHD and helps them with time management and time blindness.
+
+Existing Software that addresses similar problems and how yours will be different or better; or examples of projects in your area of interest. Check out LinksforPossibleProjects.md in the resources area to get ideas of both.
+
+Similar projects are most likely work auto schedulers and projects like YACS. However they require far more constraints than what I had in mind.
+
+Potential technologies you will use in your project; or any ideas about how where your technology might fit.
+
+Machine learning to help with determining ideal scheduling based on individual. Other than that the project should really be pretty basic. Would need to look into how to make my own calendar ui but other than that it should be really straightforward. If I opt to use an api for a pre existing calendar than this project should really be quite simple.
+
+The end product or goal.
+
+In the end I want a desktop application similar to a sticky note where a user can input tasks they need to get done (task name, due date, expected time, and finished?) then at the bottom there will be a synch with calendar button that will auto schedule the tasks into the users calendars.
+# Latex
 ![Latex](lab3Latex.JPG)
 
 ## Part 2 
