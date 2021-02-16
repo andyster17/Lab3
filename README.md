@@ -41,6 +41,8 @@ Gitstats seems to be much more thorough and I was definitely a little off in my 
 I'm honestly suprised by how off my code count was, I used the command "git ls-files -z | xargs -0 wc -l"
 for my code and its suprising to see how far off it is.   
 
+I was unable to get Gource to work :( 
+
 ### YACS
 
 #### Manual Stats
